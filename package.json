@@ -2,10 +2,10 @@
   "name": "mern-stack-api",
   "version": "1.0.0",
   "description": "",
-  "main": "server.cjs",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server.cjs"
+    "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
